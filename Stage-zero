@@ -1,0 +1,17 @@
+#Samslango's profile
+a = "Name: Samuel Oseni"
+b = "Slack Username: Samslango"
+c = "Email: Samueloseniayo@gmail.com"
+d = "Hobby: Playing video games, reading & solving problems"
+e = "Country: Nigeria"
+f = "Discipline: Physiology"
+g = "Preferred Programming Language: Python"
+
+print (a)
+print (b)
+print (c)
+print (d)
+print (e)
+print (f)
+print (g)
+#https://github.com/Samslango/Sam-Bio/new/main
