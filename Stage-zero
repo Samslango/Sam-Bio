@@ -15,3 +15,24 @@ print (e)
 print (f)
 print (g)
 #https://github.com/Samslango/Sam-Bio/new/main
+
+Sam = {
+"Name": "Samuel Oseni",
+"Slack_name": "Samslango",
+"Email": "Samueloseniayo@gmail.com",
+"Hobby": "Playing video games, reading, Solving problem",
+"Country": "Nigeria",
+"Discipline": "Physiology",
+"Preferred_Programming_language": "Python"
+}
+
+print(f"Name: {Sam['Name']}")
+print(f"Slack_name: {Sam['Slack_name']}")
+print(f"Email: {Sam['Email']}")
+print(f"Hobby: {Sam['Hobby']}")
+print(f"Country: {Sam['Country']}")
+print(f"Discipline: {Sam['Discipline']}")
+print(f"Preferred_Programming_language: {Sam['Preferred_Programming_language']}")
+
+x=" "
+print(x)
