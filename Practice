@@ -1,0 +1,21 @@
+#start coding... 
+species = ["Homo sapiens", "Pan troglodytes", "Gorilla gorilla"]
+print(species[0:2])
+
+#start coding... 
+species = ["Homo sapiens", "Pan troglodytes", "Gorilla gorilla"]
+
+#Add a new species to the list
+species.append("Macaca mulatta")
+print(species)
+
+#start coding... 
+species = ["Homo sapiens", "Pan troglodytes", "Gorilla gorilla"]
+
+#Add a new species to the list
+species.append("Macaca mulatta")
+print(species)
+
+#Add multiple species at once
+species.extend(["Felis catus", "Canis lupus"])
+print(species)
